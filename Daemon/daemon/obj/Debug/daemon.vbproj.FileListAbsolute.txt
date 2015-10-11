@@ -1,0 +1,11 @@
+c:\users\uvdev\documents\visual studio 2015\Projects\daemon\daemon\bin\Debug\daemon.exe.config
+c:\users\uvdev\documents\visual studio 2015\Projects\daemon\daemon\obj\Debug\daemon.vbprojResolveAssemblyReference.cache
+c:\users\uvdev\documents\visual studio 2015\Projects\daemon\daemon\obj\Debug\daemon.Resources.resources
+c:\users\uvdev\documents\visual studio 2015\Projects\daemon\daemon\obj\Debug\daemon.vbproj.GenerateResource.Cache
+c:\users\uvdev\documents\visual studio 2015\Projects\daemon\daemon\obj\Debug\daemon.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\bin\Debug\daemon.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\bin\Debug\daemon.pdb
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\bin\Debug\daemon.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\obj\Debug\daemon.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\obj\Debug\daemon.pdb
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\obj\Debug\daemon.daemon.resources

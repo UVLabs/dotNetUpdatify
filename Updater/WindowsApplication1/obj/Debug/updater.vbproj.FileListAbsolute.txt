@@ -1,0 +1,14 @@
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\bin\Debug\updater.exe.config
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\obj\Debug\updater.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\obj\Debug\updater.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\obj\Debug\updater.pdb
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\bin\Debug\updater.exe.config
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\obj\Debug\updater.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\obj\Debug\updater.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\obj\Debug\updater.pdb
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\bin\Debug\updater.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\bin\Debug\updater.pdb
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\bin\Debug\updater.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\obj\Debug\WindowsApplication1.updater.resources
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\Updater\WindowsApplication1\obj\Debug\updater.vbproj.GenerateResource.Cache

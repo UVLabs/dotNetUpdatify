@@ -1,0 +1,11 @@
+c:\users\uvdev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Debug\copy.vbprojResolveAssemblyReference.cache
+c:\users\uvdev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\uvdev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Debug\copy.vbproj.GenerateResource.Cache
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\bin\Debug\updater.exe.config
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\bin\Debug\updater.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\bin\Debug\updater.pdb
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\bin\Debug\updater.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\obj\Debug\updater.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\obj\Debug\updater.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\obj\Debug\updater.pdb
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\copy\WindowsApplication1\obj\Debug\WindowsApplication1.updater.resources

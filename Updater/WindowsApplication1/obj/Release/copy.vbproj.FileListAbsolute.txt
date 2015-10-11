@@ -1,0 +1,11 @@
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\bin\Release\copy.exe.config
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\bin\Release\copy.exe
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\bin\Release\copy.pdb
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\bin\Release\copy.xml
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Release\copy.vbprojResolveAssemblyReference.cache
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Release\copy.vbproj.GenerateResource.Cache
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Release\copy.exe
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Release\copy.xml
+C:\Users\UVDev\documents\visual studio 2015\Projects\copy\WindowsApplication1\obj\Release\copy.pdb

@@ -1,0 +1,14 @@
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\bin\Release\daemon.exe.config
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\bin\Release\daemon.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\bin\Release\daemon.pdb
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\bin\Release\daemon.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\obj\Release\daemon.daemon.resources
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\obj\Release\daemon.Resources.resources
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\obj\Release\daemon.vbproj.GenerateResource.Cache
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\obj\Release\daemon.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\obj\Release\daemon.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\daemon\daemon\obj\Release\daemon.pdb
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\git\Daemon\daemon\bin\Release\daemon.exe.config
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\git\Daemon\daemon\obj\Release\daemon.exe
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\git\Daemon\daemon\obj\Release\daemon.xml
+C:\Users\UVDev\Documents\Visual Studio 2015\Projects\git\Daemon\daemon\obj\Release\daemon.pdb
