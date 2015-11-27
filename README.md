@@ -20,7 +20,7 @@ Asks user to close main app-->Downloads updates for main app-->updates main app-
 
 This never updates, use a url path to somewhere you know might not change for a VERY long time, such as your personal website.
 
-# Knowning while files changed from your previous Update
+# Knowning which files changed from your previous Update
 
 By default the app does no hashchecking on it's own...it simply overwrites if it finds a file with same name. So how do you know which files have changed from your previous update?
 
